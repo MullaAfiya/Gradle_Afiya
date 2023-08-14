@@ -3,7 +3,7 @@
 $adminUrl = "http://192.168.10.126:7001"
 $username = "weblogic"
 $password = "weblogic@123"
-$appPath = "C:\GradleProject\demo\build\libs\demo.war"
+$appPath = "C:\ProgramData\Jenkins\.jenkins\workspace\GradlePipeline\build\libs\demo.war"
 $target = "AdminServer" 
 
 # Deploy the application using weblogic.Deployer
